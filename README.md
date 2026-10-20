@@ -16,3 +16,5 @@ The "Modelfile" includes the configuration required to create a customised gemma
 - Rules on how to handle evidence, 
 - Assumption formatting,
 - Instructions tailored tailored to intrusion analysis
+
+Ollama must be installed manually as lab machines do not allow running scripts.
